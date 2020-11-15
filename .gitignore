@@ -1,5 +1,6 @@
 *.iml
 *.xml
+target/*
 out/*
 .idea/*
 !src/*.java
